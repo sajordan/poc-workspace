@@ -13,7 +13,7 @@
       *       INTEREST RATE
       *    OUTPUT:
       *       MONTHLY PAYMENT
-      *
+      * saj
       *    (C) 2019 IBM
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
